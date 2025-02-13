@@ -1,0 +1,63 @@
+#login{
+   width: 40%;
+   height: 50%; 
+   border: 1px solid green;
+   background-color: lightgreen;
+   border-radius: 20%;
+   margin: auto auto;
+   position: absolute;
+   top: 20%;
+   left:30%;
+   text-align: center;
+   color: green;
+
+}
+#h1tekst{
+    position: absolute;
+    top: 2%;
+    left: 30%;
+    width: 30%;
+    height: 7%;
+    border-radius: 20%;
+}
+#text{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    width: 30%;
+    height: 7%;
+    border-radius: 20%;
+}
+#log{
+    width: 30%;
+    height: 7%;
+    border-radius: 20%;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+#res{
+    width: 30%;
+    height: 7%;
+    border-radius: 20%;
+    position: absolute;
+    left: 40%;
+    top: 60%;
+}
+#wait{
+    width: 40%;
+    height: 50%; 
+    border: 1px solid green;
+    background-color: lightgreen;
+    border-radius: 20%;
+    margin: auto auto;
+    position: absolute;
+    top: 20%;
+    left:30%;
+    text-align: center;
+    color: green;
+ 
+ }
+ #info2 {
+display: none;
+ }
